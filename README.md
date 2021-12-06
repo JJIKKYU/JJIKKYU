@@ -1,8 +1,15 @@
-## UX UI Oriented iOS Developer!👋
+## UX Oriented iOS Developer!👋
 
 <p>
   <a href="mailto:jjinggu96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jjinggu96@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/진균-정-a442bb210/" target="_blank"><img src="https://img.shields.io/badge/JinGyunJeong-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.behance.net/JJIKKYU" target="_blank"><img src="https://img.shields.io/badge/JinGyunJeong-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
+
+<p>
+  안녕하세요!👋 UX와 Software를 전공한 UX Oriented iOS Developer 정진균입니다. </br>
+  앱 개발자는 유저와 가장 맞닿아있는 클라이언트 개발자로써 작성한 코드가 어떤 사용자 경험을 이끌어낼지 알 수 있어야 합니다. </br>
+  아름다운 UI와 편리한 UX를 추구하는 개발자로써 디자이너와 UX 개선, 개발자와 UI 최적화를 위한 토론을 즐겨하는 개발자입니다. 🥳
 </p>
 
 ### 💪 Skills
