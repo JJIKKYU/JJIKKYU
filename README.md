@@ -12,6 +12,12 @@
   아름다운 UI와 편리한 UX를 추구하는 개발자로써 디자이너와 UX 개선, 개발자와 UI 최적화를 위한 토론을 즐겨하는 개발자입니다. 🥳
 </p>
 
+### 💻 iOS Projects
+<p>
+  DIMODAMO : RxSwift, MVVM, Storyboard
+  Menual : RxSwift, RIBs, Snapkit
+</p>
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
