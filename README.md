@@ -15,6 +15,8 @@
 ### 💻 iOS Projects
 <p>
   DIMODAMO : RxSwift, MVVM, Storyboard
+</p>
+<p>
   Menual : RxSwift, RIBs, Snapkit
 </p>
 
